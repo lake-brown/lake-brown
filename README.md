@@ -44,7 +44,7 @@ Here are some highlights from my GitHub:
 
 ## 🎯 Goals
 
-- 🚀 Land a role as a **Python Developer** or **Security Analyst**  
+- 🚀 Land a role as a **Developer** or **Security Analyst**  
 - 📈 Deepen expertise in **React**, **AI/ML**, **DevSecOps**, and **cloud security**  
 - 💼 Contribute to **open-source security tools** and **technical blogs**
 
