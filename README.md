@@ -21,7 +21,8 @@ I'm a passionate and security-focused developer with hands-on experience buildin
 
 Here are some highlights from my GitHub:
 
-🔸 [API Projects](https://github.com/lake-brown/API) – FastAPI apps and integrations  
+
+🔸 [API Projects](https://github.com/lake-brown/FastAPI-Projects) – FastAPI apps and integrations  
 🔸 [Python Utilities](https://github.com/lake-brown/Python_Projects) – Automation and scripting tools  
 🔸 [Cybersecurity Labs – AWS Setup](https://github.com/lake-brown/AWS-SOCLab) – SOC lab in AWS with Security Onion, pfSense, and NAT Gateway  
 🔸 [Cybersecurity Labs – HomeLab Setup](https://github.com/lake-brown/SOC--HomeLab) – VMware SOC lab setup with walkthrough and diagrams  
