@@ -27,7 +27,7 @@ I'm a passionate developer who bridges the gap between **software engineering** 
 - Automated infrastructure with Terraform and Docker  
 - ELK stack monitoring and intrusion detection with Suricata  
 
-#### 🛡️ [SOC-HomeLab](https://github.com/lake-brown/SOC-HomeLab)  
+#### 🛡️ [SOC-HomeLab](https://github.com/lake-brown/SOC--HomeLab)  
 **On-premises cybersecurity lab for learning, detection, and analysis.**  
 - Virtualized environment built with VMware and pfSense  
 - Full packet inspection, alerting, and threat emulation  
