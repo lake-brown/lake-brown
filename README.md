@@ -1,57 +1,89 @@
-# 👋 Hi, I’m Lake Brown
+# 👋 Hi, I'm Lake Brown
 
-I'm a passionate and security-focused developer with hands-on experience building full-stack applications and cybersecurity labs. I thrive at the intersection of backend development, networking, and security.
+### 🧠 Full-Stack Developer | 🛡️ Cybersecurity Enthusiast | ⚙️ SOC Lab Builder
 
----
-
-## 🧠 About Me
-
-- 🔐 **Security+ Certified** cybersecurity practitioner  
-- 🧑‍💻 Strong experience in **Python**, **PostgreSQL**, and **FastAPI**  
-- 🖥️ Comfortable with **Linux** and **Windows OS** environments  
-- 🌐 Frontend experience with **JavaScript**; currently learning **React**  
-- 🌐 Solid foundation in **networking** (CCNA-level knowledge)  
-- 🧠 Currently learning **AI Engineering** and integrating intelligent tools into development  
-- 🛠️ Built and automated full **cybersecurity SOC labs** in cloud and local environments  
-- 💡 Passionate about **automation**, **ethical hacking**, and **API-driven development**
+I'm a passionate developer who bridges the gap between **software engineering** and **cybersecurity**. I specialize in building secure, scalable web applications and designing realistic SOC labs for threat detection, monitoring, and incident response.
 
 ---
 
-## 🧪 Labs and Projects
+### 🧠 About Me
 
-Here are some highlights from my GitHub:
-
-
-🔸 [API Projects](https://github.com/lake-brown/FastAPI-Projects) – FastAPI apps and integrations  
-🔸 [Python Utilities](https://github.com/lake-brown/Python_Projects) – Automation and scripting tools  
-🔸 [Cybersecurity Labs – AWS Setup](https://github.com/lake-brown/AWS-SOCLab) – SOC lab in AWS with Security Onion, pfSense, and NAT Gateway  
-🔸 [Cybersecurity Labs – HomeLab Setup](https://github.com/lake-brown/SOC--HomeLab) – VMware SOC lab setup with walkthrough and diagrams  
-🔸 [Web Projects](https://github.com/lake-brown?tab=repositories&q=javascript&type=&language=) – Full-stack and frontend development
-
-> 🔗 Explore more at [github.com/lake-brown](https://github.com/lake-brown)
+- 🔐 **Security+ certified** practitioner with a strong focus on building secure systems from the ground up  
+- 🧑‍💻 Experienced with **Python**, **FastAPI**, and **PostgreSQL** for scalable, backend API development  
+- 💻 Proficient in both **Linux** and **Windows** environments, including system configuration and troubleshooting  
+- 🌐 Comfortable with frontend technologies including **JavaScript**, **React**, and **Next.js**  
+- 🌐 Solid grasp of **networking concepts** (CCNA-level knowledge), including routing, switching, and protocols  
+- 🤖 Currently exploring **AI engineering**, with a focus on integrating intelligent tools into development workflows  
+- ⚙️ Built and automated multiple **Security Operations Center (SOC) labs** using both cloud (AWS) and on-premise infrastructure  
+- 💡 Passionate about **automation**, **ethical hacking**, and **API-first development**, with an emphasis on security best practices  
 
 ---
 
-## 🧰 Tech Stack
+### 📌 Featured Projects
 
-- **Languages:** Python, JavaScript, Bash  
-- **Backend:** FastAPI, PostgreSQL, SQLite  
-- **Frontend:** HTML, CSS, JavaScript, React (learning)  
-- **Tools & OS:** Linux (Ubuntu, Kali), **Windows**, Git, Docker, Wireshark  
-- **Cybersecurity:** SOC lab setup, packet analysis, network monitoring  
-- **In Progress:** AI Engineering, Machine Learning fundamentals
+#### 🛰️ [AWS-SOCLab](https://github.com/lake-brown/AWS-SOCLab)  
+**Cloud-based Security Operations Center simulation using AWS, pfSense, and Security Onion.**  
+- Realistic attacker-defender setup for threat detection training  
+- Automated infrastructure with Terraform and Docker  
+- ELK stack monitoring and intrusion detection with Suricata  
+
+#### 🛡️ [SOC-HomeLab](https://github.com/lake-brown/SOC-HomeLab)  
+**On-premises cybersecurity lab for learning, detection, and analysis.**  
+- Virtualized environment built with VMware and pfSense  
+- Full packet inspection, alerting, and threat emulation  
+- Ideal for blue team simulations and network analysis practice  
+
+#### 🔐 [FastAPI-Auth-Demo](https://github.com/lake-brown/FastAPI-Auth-Demo)  
+**Backend API with authentication and role-based access controls.**  
+- Uses FastAPI, PostgreSQL, and JWTs  
+- Input validation with Pydantic  
+- Demonstrates secure development practices  
+
+#### 🛠️ [Python Utilities](https://github.com/lake-brown?tab=repositories&q=utility)  
+**Scripts and tools for automation, networking, scanning, and more.**  
+- Network scanning, log parsing, and file management  
+- CLI tools for everyday developer and analyst tasks  
 
 ---
 
-## 🎯 Goals
+### 🛠️ Tech Stack
 
-- 🚀 Land a role as a **Developer** or **Security Analyst**  
-- 📈 Deepen expertise in **React**, **AI/ML**, **DevSecOps**, and **cloud security**  
-- 💼 Contribute to **open-source security tools** and **technical blogs**
+| Domain            | Technologies & Tools                                      |
+|-------------------|-----------------------------------------------------------|
+| **Frontend**      | HTML, CSS, JavaScript, React, Next.js                     |
+| **Backend**       | Python, FastAPI, PostgreSQL, REST APIs                    |
+| **Cybersecurity** | Security Onion, pfSense, Suricata, Wireshark, Nmap       |
+| **DevOps & Infra**| Docker, GitHub Actions, AWS, Terraform, VMware           |
+| **OS & Tools**    | Linux, Windows, VS Code, Git, Burp Suite, Nessus         |
 
 ---
 
-## 📫 Let’s Connect
+### 🎓 Certifications & Learning
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/lakelyne-brown) 
-- 💬 Open to collaborations and learning opportunities
+- ✅ **CompTIA Security+ Certified**
+- 🚧 Currently learning:
+  - **React & Next.js** (frontend development)
+  - **AI for developers and cybersecurity**
+  - **DevSecOps** workflows and secure CI/CD pipelines
+
+---
+
+### 🚀 Goals
+
+- 👨‍💻 Land a role as a **Full-Stack Developer** or **Security Analyst**
+- 🔐 Build more **secure-by-default** applications with best practices  
+- 📚 Write technical guides and blogs for developers interested in security  
+- 🧑‍🤝‍🧑 Contribute to open-source security tooling and automation frameworks  
+
+---
+
+### 📬 Let’s Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/lakelyne-brown)
+
+
+---
+
+> _“The best code is the one that protects itself.”_
+
+Thanks for visiting!
