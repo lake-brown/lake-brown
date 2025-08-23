@@ -39,7 +39,7 @@ I'm a passionate developer who bridges the gap between **software engineering** 
 - Input validation with Pydantic  
 - Demonstrates secure development practices  
 
-#### 🛠️ [Python Utilities](https://github.com/lake-brown?tab=repositories&q=utility)  
+#### 🛠️ [Python Utilities](https://github.com/lake-brown/Python_Projects)  
 **Scripts and tools for automation, networking, scanning, and more.**  
 - Network scanning, log parsing, and file management  
 - CLI tools for everyday developer and analyst tasks  
@@ -62,7 +62,7 @@ I'm a passionate developer who bridges the gap between **software engineering** 
 
 - ✅ **CompTIA Security+ Certified**
 - 🚧 Currently learning:
-  - **React & Next.js** (frontend development)
+  - **Next.js** (frontend development)
   - **AI for developers and cybersecurity**
   - **DevSecOps** workflows and secure CI/CD pipelines
 
