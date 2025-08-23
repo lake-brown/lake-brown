@@ -33,7 +33,7 @@ I'm a passionate developer who bridges the gap between **software engineering** 
 - Full packet inspection, alerting, and threat emulation  
 - Ideal for blue team simulations and network analysis practice  
 
-#### 🔐 [FastAPI-Auth-Demo](https://github.com/lake-brown/FastAPI-Auth-Demo)  
+#### 🔐 [FastAPI](https://github.com/lake-brown/FastAPI-Projects)  
 **Backend API with authentication and role-based access controls.**  
 - Uses FastAPI, PostgreSQL, and JWTs  
 - Input validation with Pydantic  
