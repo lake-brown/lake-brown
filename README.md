@@ -1,89 +1,65 @@
-# 👋 Hi, I'm Lake Brown
+# 👋 Hi, I'm Lake Brown  
 
-### 🧠 Full-Stack Developer | 🛡️ Cybersecurity Enthusiast | ⚙️ SOC Lab Builder
+💻 **Fullstack JavaScript Engineer | Tech-Lead Potential | Remote-First Builder**  
 
-I'm a passionate developer who bridges the gap between **software engineering** and **cybersecurity**. I specialize in building secure, scalable web applications and designing realistic SOC labs for threat detection, monitoring, and incident response.
-
----
-
-### 🧠 About Me
-
-- 🔐 **Security+ certified** practitioner with a strong focus on building secure systems from the ground up  
-- 🧑‍💻 Experienced with **Python**, **FastAPI**, and **PostgreSQL** for scalable, backend API development  
-- 💻 Proficient in both **Linux** and **Windows** environments, including system configuration and troubleshooting  
-- 🌐 Comfortable with frontend technologies including **JavaScript**, **React**, and **Next.js**  
-- 🌐 Solid grasp of **networking concepts** (CCNA-level knowledge), including routing, switching, and protocols  
-- 🤖 Currently exploring **AI engineering**, with a focus on integrating intelligent tools into development workflows  
-- ⚙️ Built and automated multiple **Security Operations Center (SOC) labs** using both cloud (AWS) and on-premise infrastructure  
-- 💡 Passionate about **automation**, **ethical hacking**, and **API-first development**, with an emphasis on security best practices  
+I specialize in building **scalable fullstack applications** with **React, Node.js, Express, MongoDB, FastAPI, and SQL**.  
+Passionate about tackling complex challenges, leading collaborative teams, and delivering impactful digital products.  
 
 ---
 
-### 📌 Featured Projects
+## 🚀 Tech Stack
 
-#### 🛰️ [AWS-SOCLab](https://github.com/lake-brown/AWS-SOCLab)  
-**Cloud-based Security Operations Center simulation using AWS, pfSense, and Security Onion.**  
-- Realistic attacker-defender setup for threat detection training  
-- Automated infrastructure with Terraform and Docker  
-- ELK stack monitoring and intrusion detection with Suricata  
-
-#### 🛡️ [SOC-HomeLab](https://github.com/lake-brown/SOC--HomeLab)  
-**On-premises cybersecurity lab for learning, detection, and analysis.**  
-- Virtualized environment built with VMware and pfSense  
-- Full packet inspection, alerting, and threat emulation  
-- Ideal for blue team simulations and network analysis practice  
-
-#### 🔐 [FastAPI](https://github.com/lake-brown/FastAPI-Projects)  
-**Backend API with authentication and role-based access controls.**  
-- Uses FastAPI, PostgreSQL, and JWTs  
-- Input validation with Pydantic  
-- Demonstrates secure development practices  
-
-#### 🛠️ [Python Utilities](https://github.com/lake-brown/Python_Projects)  
-**Scripts and tools for automation, networking, scanning, and more.**  
-- Network scanning, log parsing, and file management  
-- CLI tools for everyday developer and analyst tasks  
+**Frontend:** React, JavaScript (ES6+), HTML5, CSS3, TailwindCSS  
+**Backend:** Node.js, Express.js, FastAPI, REST APIs  
+**Databases:** MongoDB, PostgreSQL, MySQL  
+**Tools & Workflow:** Git, Docker, Jest, Postman  
 
 ---
 
-### 🛠️ Tech Stack
+## 📌 Featured Projects  
 
-| Domain            | Technologies & Tools                                      |
-|-------------------|-----------------------------------------------------------|
-| **Frontend**      | HTML, CSS, JavaScript, React, Next.js                     |
-| **Backend**       | Python, FastAPI, PostgreSQL, REST APIs                    |
-| **Cybersecurity** | Security Onion, pfSense, Suricata, Wireshark, Nmap       |
-| **DevOps & Infra**| Docker, GitHub Actions, AWS, Terraform, VMware           |
-| **OS & Tools**    | Linux, Windows, VS Code, Git, Burp Suite, Nessus         |
-
----
-
-### 🎓 Certifications & Learning
-
-- ✅ **CompTIA Security+ Certified**
-- 🚧 Currently learning:
-  - **Next.js** (frontend development)
-  - **AI for developers and cybersecurity**
-  - **DevSecOps** workflows and secure CI/CD pipelines
+### 💬 Chat App – *MERN Stack*  
+A real-time messaging application with authentication and live updates.  
+- React frontend with responsive design  
+- Node.js and Express backend with WebSocket support  
+- MongoDB for storing messages and user data  
+- JWT-based authentication and secure user sessions  
+🔗 [View Repo](https://github.com/lake-brown/fullstack-Chat-Application)  
 
 ---
 
-### 🚀 Goals
-
-- 👨‍💻 Land a role as a **Full-Stack Developer** or **Security Analyst**
-- 🔐 Build more **secure-by-default** applications with best practices  
-- 📚 Write technical guides and blogs for developers interested in security  
-- 🧑‍🤝‍🧑 Contribute to open-source security tooling and automation frameworks  
-
----
-
-### 📬 Let’s Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/lakelyne-brown)
-
+### 🏋️ Workout App – *FastAPI + SQL*  
+A workout tracker API for managing exercises, routines, and user progress.  
+- FastAPI backend with PostgreSQL database  
+- CRUD operations for workouts and exercises  
+- JWT authentication and role-based access  
+- Designed for integration with a future React frontend  
+🔗 [View Repo](https://github.com/lake-brown/Workout-App)  
 
 ---
 
-> _“The best code is the one that protects itself.”_
+### 💰 Expense Tracker App – *Node.js + SQL*  
+A personal finance app for tracking income and expenses.  
+- Node.js and Express backend with REST API  
+- PostgreSQL database for transactions and user accounts  
+- CRUD functionality for managing expenses, categories, and budgets  
+- JWT authentication and secure session handling  
+🔗 [View Repo](#)  
 
-Thanks for visiting!
+---
+
+## 🌱 What I'm Working On
+- Expanding **SQL-first backend projects** to mirror enterprise environments  
+- Adding **Docker + CI/CD pipelines** for real-world deployment  
+- Practicing **team-oriented workflows** with branches, pull requests, and code reviews  
+
+---
+
+## 📫 Let’s Connect
+- GitHub: [lake-brown](https://github.com/lake-brown)  
+- LinkedIn: *(add link here)*  
+- Email: *(add professional email here)*  
+
+---
+
+⭐ *Always learning. Always building. Excited to bring my skills to transformative projects like those at Lumenalta.*
