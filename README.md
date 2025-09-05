@@ -10,7 +10,7 @@ Passionate about tackling complex challenges, leading collaborative teams, and d
 ## 🌐 Portfolio
 
 Check out my **portfolio website** to see my projects, demos, and professional experience:  
-🔗 [lakes-portfolio.vercel.app](https://lakes-portfolio.vercel.app/)  
+🔗 [lakes-portfolio](https://lakes-portfolio.vercel.app/)  
 
 ---
 
