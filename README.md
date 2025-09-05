@@ -64,7 +64,7 @@ A personal finance app for tracking income and expenses.
 
 ## 📫 Let’s Connect
 - GitHub: [lake-brown](https://github.com/lake-brown)  
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/lakelyne-brown) 
+- LinkedIn: [LinkedIn](www.linkedin.com/in/lakelyne-brown-a74a54356) 
 - Email: *(add professional email here)*  
 
 ---
