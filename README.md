@@ -7,6 +7,13 @@ Passionate about tackling complex challenges, leading collaborative teams, and d
 
 ---
 
+## 🌐 Portfolio
+
+Check out my **portfolio website** to see my projects, demos, and professional experience:  
+🔗 [lakes-portfolio.vercel.app](https://lakes-portfolio.vercel.app/)  
+
+---
+
 ## 🚀 Tech Stack
 
 **Frontend:** React, JavaScript (ES6+), HTML5, CSS3, TailwindCSS  
