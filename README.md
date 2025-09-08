@@ -45,13 +45,14 @@ A workout tracker API for managing exercises, routines, and user progress.
 
 ---
 
-### 💰 Expense Tracker App – *Node.js + SQL*  
+### 💰 Expense Tracker App – *(MongoDB, Express.js, React.js, Node.js) + Apollo GraphQL*  
 A personal finance app for tracking income and expenses.  
-- Node.js and Express backend with REST API  
-- PostgreSQL database for transactions and user accounts  
-- CRUD functionality for managing expenses, categories, and budgets  
-- JWT authentication and secure session handling  
-🔗 [View Repo](#)  
+- Mutations for modifying data in the GraphQL API and establishing graph relations
+- Authentication with Passport.js and MongoDB session store
+- Global state management with Apollo Client
+-  Error handling both on the server and on the client
+- Deployment with a platform called Render
+🔗 [View Repo](https://github.com/lake-brown/Expense-Tracker-App)  
 
 ---
 
