@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Lake Brown  
 
-💻 **Fullstack JavaScript Engineer | Tech-Lead Potential | Remote-First Builder**  
+💻 **Full-Stack Developer | API & Systems Integration | Cloud-Focused Builder
 
-I specialize in building **scalable fullstack applications** with **React, Node.js, Express, MongoDB, FastAPI, and SQL**.  
-Passionate about tackling complex challenges, leading collaborative teams, and delivering impactful digital products.  
+I build scalable, full-stack applications with a strong focus on API development, system integration, and cloud-based architectures. My experience spans React, Node.js, ASP.NET-style APIs, FastAPI, and MongoDB/PostgreSQL, with hands-on work deploying and managing applications in AWS environments.
 
+I enjoy solving real-world problems by connecting systems, improving data flow, and building reliable backend services that power modern applications.
 ---
 
 ## 🌐 Portfolio
@@ -16,14 +16,36 @@ Check out my **portfolio website** to see my projects, demos, and professional e
 
 ## 🚀 Tech Stack
 
-**Frontend:** React, JavaScript (ES6+), HTML5, CSS3, TailwindCSS  
-**Backend:** Node.js, Express.js, FastAPI, REST APIs  
+**Frontend:** React, TypeScript, JavaScript (ES6+), HTML5, CSS3, TailwindCSS 
+**Backend:** Node.js, Express.js, FastAPI, REST APIs, GraphQL
 **Databases:** MongoDB, PostgreSQL, MySQL  
-**Tools & Workflow:** Git, Docker, Jest, Postman  
+**Tools & Workflow:** Git, Docker, Jest, Postman 
+**Cloud & DevOps: AWS (EC2, S3, IAM, VPC), Docker, CI/CD
+**API & Security: REST, OpenAPI/Swagger, OAuth2, JWT
 
 ---
 
 ## 📌 Featured Projects  
+
+### 📄 Resume Management System – React, TypeScript, .NET, SQL Server
+A full-stack application for managing, editing, and storing resume data with a structured backend.
+- Built a .NET Web API to handle resume data, CRUD operations, and business logic
+- Developed a React + TypeScript frontend with reusable components and API integration 
+- Designed a relational database schema for structured data storage and retrieval
+- Focused on clean architecture, scalability, and maintainable code practices 
+🔗 [View Repo](https://github.com/lake-brown/resume-management)
+
+---
+
+### 📊 CRM Dashboard – React, TypeScript, GraphQL
+A client and workflow management system designed to simulate real-world business operations. 
+- Implemented GraphQL APIs for efficient data querying and state management
+- Built role-based authentication and authorization for secure user access
+- Developed scalable UI components using TypeScript and modern React patterns
+- JAutomated deployment using CI/CD (GitHub Actions + Vercel)
+🔗 [View Repo](https://github.com/lake-brown/Dashboard)
+
+---
 
 ### 💬 Chat App – *MERN Stack*  
 A real-time messaging application with authentication and live updates.  
@@ -31,28 +53,7 @@ A real-time messaging application with authentication and live updates.
 - Node.js and Express backend with WebSocket support  
 - MongoDB for storing messages and user data  
 - JWT-based authentication and secure user sessions  
-🔗 [View Repo](https://github.com/lake-brown/fullstack-Chat-Application)  
-
----
-
-### 🏋️ Workout App – *FastAPI + SQL*  
-A workout tracker API for managing exercises, routines, and user progress.  
-- FastAPI backend with PostgreSQL database  
-- CRUD operations for workouts and exercises  
-- JWT authentication and role-based access  
-- Designed for integration with a future React frontend  
-🔗 [View Repo](https://github.com/lake-brown/Workout-App)  
-
----
-
-### 💰 Expense Tracker App – *(MongoDB, Express.js, React.js, Node.js) + Apollo GraphQL*  
-A personal finance app for tracking income and expenses.  
-- Mutations for modifying data in the GraphQL API and establishing graph relations
-- Authentication with Passport.js and MongoDB session store
-- Global state management with Apollo Client
--  Error handling both on the server and on the client
-- Deployment with a platform called Render
-🔗 [View Repo](https://github.com/lake-brown/Expense-Tracker-App)  
+🔗 [View Repo](https://github.com/lake-brown/fullstack-Chat-Application) 
 
 ---
 
@@ -66,7 +67,7 @@ A personal finance app for tracking income and expenses.
 ## 📫 Let’s Connect
 - GitHub: [lake-brown](https://github.com/lake-brown)  
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/lakelyne-brown-a74a54356) 
-- Email: *(add professional email here)*  
+- Email: *(brownlakelyne@gmail.com)*  
 
 ---
 
