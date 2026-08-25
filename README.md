@@ -1,3 +1,7 @@
+
+<img src="https://img.magnific.com/premium-photo/digital-security-theme-with-3d-lock-circuit-patterns-encrypted-data-dark-blue_220770-96896.jpg?semt=ais_hybrid&w=740&q=80" width="100%" height="200" alt="My Profile Banner">
+
+
 # 👋 Hi, I'm Lake Brown  
 
 💻 **Full-Stack Developer | API & Systems Integration | Cloud-Focused Builder
