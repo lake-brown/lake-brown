@@ -25,18 +25,19 @@ Check out my **portfolio website** to see my projects, demos, and professional e
 
 ---
 
-## 🚀 Tech Stack
+## 🛡️ Security Skills
 
-**Frontend:** React, TypeScript, JavaScript (ES6+), HTML5, CSS3, TailwindCSS 
-**Backend:** Node.js, Express.js, FastAPI, REST APIs, GraphQL
-**Databases:** MongoDB, PostgreSQL, MySQL  
-**Tools & Workflow:** Git, Docker, Jest, Postman 
-**Cloud & DevOps: AWS (EC2, S3, IAM, VPC), Docker, CI/CD
-**API & Security: REST, OpenAPI/Swagger, OAuth2, JWT
+| Area | Technologies |
+|---|---|
+| SIEM | Splunk |
+| Operating Systems | Linux, Windows |
+| Network Analysis | Wireshark, Packet Tracer |
+| Security | Security+, Threat Detection |
+| Scripting | Python, Bash |
+| Version Control | Git/GitHub |
+## 📌 Featured Projects  
 
 ---
-
-## 📌 Featured Projects  
 
 ### 📄 Resume Management System – React, TypeScript, .NET, SQL Server
 A full-stack application for managing, editing, and storing resume data with a structured backend.
