@@ -4,7 +4,8 @@
 
 # 👋 Hi, I'm Lake Brown  
 
-💻 **SOC Analyst | Cybersecurity | Security+ | SIEM | Threat Detection | Cloud Security
+
+🛡️ SOC Analyst | Cybersecurity | Security+ | SIEM | Threat Detection | Incident Response
 
 I'm building hands-on experience in security monitoring,
 log analysis, threat detection, and incident response.
@@ -17,11 +18,6 @@ Currently focused on:
 - 🌐 Network security
 - 🐧 Linux
 - 🚨 Incident response
-
-## 🌐 Portfolio
-
-Check out my **portfolio website** to see my projects, demos, and professional experience:  
-🔗 [lakes-portfolio](https://lakes-portfolio.vercel.app/)  
 
 ---
 
@@ -50,6 +46,16 @@ Splunk-based investigation of a simulated phishing incident.
 
 ---
 
+🔬 Current Focus
+Security monitoring and alert triage
+Splunk and SIEM investigations
+Windows/Linux log analysis
+Network traffic analysis with Wireshark
+Incident response playbooks
+Threat detection and documentation
+
+---
+
 ### 🚨 Brute Force Detection
 Investigation of suspicious authentication activity using
 Windows logs and Splunk.
@@ -65,13 +71,12 @@ Analysis of suspicious network traffic using Wireshark.
 
 **Skills:** Wireshark • TCP/IP • DNS • Network Analysis
 
-[View Project](LINK)
+[View Project](LINK)  
 ---
+## 🌐 Portfolio
 
-## 🌱 What I'm Working On
-- Expanding **SQL-first backend projects** to mirror enterprise environments  
-- Adding **Docker + CI/CD pipelines** for real-world deployment  
-- Practicing **team-oriented workflows** with branches, pull requests, and code reviews  
+Check out my **portfolio website** to see my projects, demos, and professional experience:  
+🔗 [lakes-portfolio](https://lakes-portfolio.vercel.app/)  
 
 ---
 
@@ -82,4 +87,4 @@ Analysis of suspicious network traffic using Wireshark.
 
 ---
 
-⭐ *Always learning. Always building. Excited to bring my skills to transformative projects like those at Lumenalta.*
+⭐ *Always learning, building, and documenting my journey into cybersecurity.*
