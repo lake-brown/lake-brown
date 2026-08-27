@@ -4,12 +4,19 @@
 
 # 👋 Hi, I'm Lake Brown  
 
-💻 **Full-Stack Developer | API & Systems Integration | Cloud-Focused Builder
+💻 **SOC Analyst | Cybersecurity | Security+ | SIEM | Threat Detection | Cloud Security
 
-I build scalable, full-stack applications with a strong focus on API development, system integration, and cloud-based architectures. My experience spans React, Node.js, ASP.NET-style APIs, FastAPI, and MongoDB/PostgreSQL, with hands-on work deploying and managing applications in AWS environments.
+I'm building hands-on experience in security monitoring,
+log analysis, threat detection, and incident response.
 
-I enjoy solving real-world problems by connecting systems, improving data flow, and building reliable backend services that power modern applications.
----
+Currently focused on:
+
+- 🔎 SOC analysis
+- 📊 Splunk & SIEM
+- 🛡️ Threat detection
+- 🌐 Network security
+- 🐧 Linux
+- 🚨 Incident response
 
 ## 🌐 Portfolio
 
