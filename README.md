@@ -81,7 +81,6 @@ Check out my **portfolio website** to see my projects, demos, and professional e
 ---
 
 ## 📫 Let’s Connect
-- GitHub: [lake-brown](https://github.com/lake-brown)  
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/lakelyne-brown-a74a54356) 
 - Email: *(brownlakelyne@gmail.com)*  
 
