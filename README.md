@@ -35,38 +35,37 @@ Check out my **portfolio website** to see my projects, demos, and professional e
 | Security | Security+, Threat Detection |
 | Scripting | Python, Bash |
 | Version Control | Git/GitHub |
-## 📌 Featured Projects  
+
 
 ---
 
-### 📄 Resume Management System – React, TypeScript, .NET, SQL Server
-A full-stack application for managing, editing, and storing resume data with a structured backend.
-- Built a .NET Web API to handle resume data, CRUD operations, and business logic
-- Developed a React + TypeScript frontend with reusable components and API integration 
-- Designed a relational database schema for structured data storage and retrieval
-- Focused on clean architecture, scalability, and maintainable code practices 
-🔗 [View Repo](https://github.com/lake-brown/resume-management)
+### 🔎 SOC Projects
+
+### 📧 Phishing Investigation
+Splunk-based investigation of a simulated phishing incident.
+
+**Skills:** Splunk • SIEM • Phishing Analysis • Incident Response
+
+[View Project](LINK)
 
 ---
 
-### 📊 CRM Dashboard – React, TypeScript, GraphQL
-A client and workflow management system designed to simulate real-world business operations. 
-- Implemented GraphQL APIs for efficient data querying and state management
-- Built role-based authentication and authorization for secure user access
-- Developed scalable UI components using TypeScript and modern React patterns
-- JAutomated deployment using CI/CD (GitHub Actions + Vercel)
-🔗 [View Repo](https://github.com/lake-brown/Dashboard)
+### 🚨 Brute Force Detection
+Investigation of suspicious authentication activity using
+Windows logs and Splunk.
+
+**Skills:** Windows • Splunk • Log Analysis • Detection
+
+[View Project](LINK)
 
 ---
 
-### 💬 Chat App – *MERN Stack*  
-A real-time messaging application with authentication and live updates.  
-- React frontend with responsive design  
-- Node.js and Express backend with WebSocket support  
-- MongoDB for storing messages and user data  
-- JWT-based authentication and secure user sessions  
-🔗 [View Repo](https://github.com/lake-brown/fullstack-Chat-Application) 
+### 🌐 Network Traffic Investigation
+Analysis of suspicious network traffic using Wireshark.
 
+**Skills:** Wireshark • TCP/IP • DNS • Network Analysis
+
+[View Project](LINK)
 ---
 
 ## 🌱 What I'm Working On
