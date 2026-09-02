@@ -1,5 +1,6 @@
-
-<img src="https://img.magnific.com/premium-photo/digital-security-theme-with-3d-lock-circuit-patterns-encrypted-data-dark-blue_220770-96896.jpg?semt=ais_hybrid&w=740&q=80" width="100%" height="200" alt="My Profile Banner">
+<p align="center">
+  <img src="./assets/banner.png" alt="Data Lake Sec Banner" width="100%">
+</p>
 
 
 # 👋 Hi, I'm Lake Brown  
