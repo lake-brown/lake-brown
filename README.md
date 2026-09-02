@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Data Lake Sec Banner" width="100%" height="140">
+  <img src="./assets/banner.png" alt="Data Lake Sec Banner" width="100%" height="300">
 </p>
 
 
