@@ -83,7 +83,7 @@ Check out my **portfolio website** to see my projects, demos, and professional e
 
 ## 📫 Let’s Connect
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/lakelyne-brown-a74a54356) 
-- Email: *(brownlakelyne@gmail.com)*  
+- Email: *[Email](brownlakelyne@gmail.com)*  
 
 ---
 
