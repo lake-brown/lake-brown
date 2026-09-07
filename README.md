@@ -6,7 +6,7 @@
 # 👋 Hi, I'm Lake Brown  
 
 
-🛡️ SOC Analyst | Cybersecurity | Security+ | SIEM | Threat Detection | Incident Response
+🛡️ SOC Analyst | Cybersecurity | Security+ | CCNA | SIEM | Threat Detection
 
 I'm building hands-on experience in security monitoring,
 log analysis, threat detection, and incident response.
