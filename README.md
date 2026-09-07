@@ -19,6 +19,7 @@ Currently focused on:
 - 🌐 Network security
 - 🐧 Linux
 - 🚨 Incident response
+- 📝 Security documentation & investigation
 
 ---
 
