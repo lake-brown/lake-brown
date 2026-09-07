@@ -26,17 +26,29 @@ Currently focused on:
 
 | Area | Technologies |
 |---|---|
-| SIEM | Splunk |
-| Operating Systems | Linux, Windows |
-| Network Analysis | Wireshark, Packet Tracer |
-| Security | Security+, Threat Detection |
+| SIEM & Monitoring | Splunk, SIEM, Log Analysis, Alert Triage |
+| IDS/Detection | Suricata, Security Onion, IDS/IPS, Threat Detection |
+| Network Analysis | Wireshark, TCP/IP, Packet Tracer, Network Traffic Analysis|
+| Operating Systems | Linux (Kali, Ubuntu), Windows, MacOS |
+|Incident Response | Incident Investigation, Incident Response, Security Documentation |
 | Scripting | Python, Bash |
 | Version Control | Git/GitHub |
+
 
 
 ---
 
 ### 🔎 SOC Projects
+
+### 🏠 HomeSOC — Physical Cybersecurity Lab
+
+Hands-on physical cybersecurity lab focused on network monitoring, intrusion detection, centralized logging, and security investigation.
+
+Skills: Linux • Suricata • Splunk • Wireshark • Networking • Network Security • Incident Investigation
+
+[View Project](https://github.com/lake-brown/HomeSOC--physical--lab)
+
+---
 
 ### 📧 Phishing Investigation
 Splunk-based investigation of a simulated phishing incident.
