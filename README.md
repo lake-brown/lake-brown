@@ -62,7 +62,7 @@ Windows Server lab focused on Active Directory administration, identity lifecycl
 
 Skills: Active Directory • Windows Server • IAM • PowerShell • RBAC • Group Policy
 
-View Active Directory Project
+[View Project](https://github.com/lake-brown/HomeSOC--physical--lab/tree/main/windows-server-ad)
 
 ---
 
