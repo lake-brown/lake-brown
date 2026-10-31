@@ -17,8 +17,11 @@ Currently focused on:
 - 📊 Splunk & SIEM
 - 🛡️ Threat detection
 - 🌐 Network security
+- 🔐 Identity & Access Management (IAM)
+- 🪟 Active Directory & Windows Server
 - 🐧 Linux
 - 🚨 Incident response
+- ⚡ PowerShell Automation
 - 📝 Security documentation & investigation
 
 ---
@@ -30,9 +33,11 @@ Currently focused on:
 | SIEM & Monitoring | Splunk, SIEM, Log Analysis, Alert Triage |
 | IDS/Detection | Suricata, Security Onion, IDS/IPS, Threat Detection |
 | Network Analysis | Wireshark, TCP/IP, Packet Tracer, Network Traffic Analysis|
+|Identity & Access Management | Active Directory, User Provisioning, Access Control, RBAC|
+|Windows Administration | Windows Server, Active Directory, Group Policy|
 | Operating Systems | Linux (Kali, Ubuntu), Windows, MacOS |
 |Incident Response | Incident Investigation, Incident Response, Security Documentation |
-| Scripting | Python, Bash |
+| Scripting | Python, Bash, PowerShell|
 | Version Control | Git/GitHub |
 
 
@@ -51,22 +56,22 @@ Skills: Linux • Suricata • Splunk • Wireshark • Networking • Network S
 
 ---
 
+### 🔐 Active Directory & PowerShell Automation Lab
+
+Windows Server lab focused on Active Directory administration, identity lifecycle management, user provisioning, security groups, Organizational Units (OUs), and PowerShell automation.
+
+Skills: Active Directory • Windows Server • IAM • PowerShell • RBAC • Group Policy
+
+View Active Directory Project
+
+---
+
 ### 📧 Phishing Investigation
 Splunk-based investigation of a simulated phishing incident.
 
 **Skills:** Splunk • SIEM • Phishing Analysis • Incident Response
 
 [View Project](LINK)
-
----
-
-🔬 Current Focus
-Security monitoring and alert triage
-Splunk and SIEM investigations
-Windows/Linux log analysis
-Network traffic analysis with Wireshark
-Incident response playbooks
-Threat detection and documentation
 
 ---
 
@@ -86,7 +91,22 @@ Analysis of suspicious network traffic using Wireshark.
 **Skills:** Wireshark • TCP/IP • DNS • Network Analysis
 
 [View Project](LINK)  
+
 ---
+
+🔬 Current Focus
+- Security monitoring and alert triage
+- Splunk and SIEM investigations
+- Windows/Linux log analysis
+- Active Directory administration
+- IAM user provisioning and access management
+- PowerShell automation
+- Network traffic analysis with Wireshark
+- Incident response playbooks
+- Threat detection and documentation
+
+---
+
 ## 🌐 Portfolio
 
 Check out my **portfolio website** to see my projects, demos, and professional experience:  
